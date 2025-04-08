@@ -1,7 +1,7 @@
 
 
 <h1 align="center">David Messias </h1>
-<h3 align="center">Técnico Eletroeletrônica | Data Analisty |
+<h3 align="center">Técnico Eletroeletrônica | Data Analisty |Back-End
 
 <!-- Social icons -->
 <p align="center">
@@ -25,6 +25,7 @@ Cursei 2 anos de Engenharia Elétrica na UAM - (mais não finalizei)
  
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" alt="Google Cloud">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
