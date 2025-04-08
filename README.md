@@ -28,6 +28,7 @@ Cursei 2 anos de Engenharia Elétrica na UAM - (mais não finalizei)
    <img src="https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=Visual%20Studio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square" alt="Google Cloud">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" alt="Figma">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=CSharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
 <img src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white" alt="Power BI">
