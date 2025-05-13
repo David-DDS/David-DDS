@@ -1,7 +1,7 @@
 
 
 <h1 align="center">David Messias </h1>
-<h3 align="center">Técnico Eletroeletrônica | Data Analisty |Back-End
+<h3 align="center">Técnico Eletroeletrônica | Desenvolvedor Back -end
 
 <!-- Social icons -->
 <p align="center">
